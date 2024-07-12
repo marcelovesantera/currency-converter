@@ -7,6 +7,7 @@ Este projeto é uma aplicação web construída com React, Typescript e Material
 - **React**: Framework front-end para construção de interfaces de usuário.
 - **TypeScript**: Fornece segurança de tipos para componentes React e garante a integridade dos dados.
 - **Material-UI**: Biblioteca de componentes de UI para aplicações React, utilizada para estilização e layout.
+- **Jest**: Biblioteca de testes unitários.
 
 ## Como Começar
 
