@@ -1,0 +1,37 @@
+{
+  "USD": {
+    "id": 1,
+    "value": "USD",
+    "rate": 1.0
+  },
+  "GBP": {
+    "id": 2,
+    "value": "GBP",
+    "rate": 0.73
+  },
+  "EUR": {
+    "id": 3,
+    "value": "EUR",
+    "rate": 0.85
+  },
+  "CAD": {
+    "id": 4,
+    "value": "CAD",
+    "rate": 1.25
+  },
+  "AUD": {
+    "id": 5,
+    "value": "AUD",
+    "rate": 1.35
+  },
+  "BRL": {
+    "id": 6,
+    "value": "BRL",
+    "rate": 5.25
+  },
+  "CNY": {
+    "id": 7,
+    "value": "CNY",
+    "rate": 6.48
+  }
+}
